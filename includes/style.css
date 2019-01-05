@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,300i,900|Staatliches');
+
+body { 
+    background-color: #161618;
+}
+* { 
+    color: white;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300i;
+}
+h1 { 
+    font-family: 'Staatliches', cursive;
+    font-size: 68px;
+}
+.card { 
+    padding: 10px;
+    background-color: #2B2B32;
+    font-size: 13px;
+}
+.extra { 
+    font-size: 13px;
+    position: absolute;
+    left: 2.5%;
+    background-color: rgba(0, 0, 0, 0.383);
+    color: rgb(243, 243, 243);
+    border: 0;
+}
+#txt-arr {
+    color: #161618;
+}
+.search { 
+    margin: 10px;
+}
